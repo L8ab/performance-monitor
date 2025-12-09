@@ -1,0 +1,12 @@
+{
+  "name": "performance-monitor",
+  "version": "1.0.0",
+  "description": "Performance Monitoring Tool by L8ab Systems",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
